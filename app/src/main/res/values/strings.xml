@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Exercise1</string>
+    <string name="carPrice">Car Price :</string>
+    <string name="downPayment">Down Payment :</string>
+    <string name="carLoan">Car Loan :</string>
+    <string name="price">price</string>
+    <string name="down_payment">down payment</string>
+    <string name="loanPeriod">Loan Period :</string>
+    <string name="hintLoanPeriod">loan period</string>
+    <string name="hintInterestRate">interest rate</string>
+    <string name="interestRate">Interest Rate :</string>
+    <string name="interest">Interest :</string>
+    <string name="monthlyRepayment"> Monthly Repayment =</string>
+    <string name="Calculate">CALCULATE</string>
+    <string name="clickHandlerFunction" />
+</resources>
